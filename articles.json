@@ -4,9 +4,9 @@
 		"publisherID" : "pub-3940256099942544",
 		"admBanner" :  "ca-app-pub-3940256099942544/6300978111",
 		"Interstitial" : "ca-app-pub-3940256099942544/1033173712",
-		"admob_app_id" : "ca-app-pub-3940256099942544~3347511713",
-    		"admob_unit_id" : "ca-app-pub-3940256099942544/2247696110",
-		"privacy_policy_url" : "https://www.google.com/policies/privacy/",
+		"AppId" : "ca-app-pub-3940256099942544~3347511713",
+    		"UnitId" : "ca-app-pub-3940256099942544/2247696110",
+		"PrivacyPolicyUrl" : "https://www.google.com/policies/privacy/",
 		"nbShowInterstitial" : 5,
 	},
 "articles": [
